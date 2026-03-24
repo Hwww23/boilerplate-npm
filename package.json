@@ -1,5 +1,6 @@
 {
 	"author": "Hao Wen",
+	"description": "A project where we learn!",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
