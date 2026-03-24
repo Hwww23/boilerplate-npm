@@ -13,5 +13,6 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"keywords": ["freecodecamp"]
+	"keywords": ["freecodecamp"],
+	"version": "1.0"
 }
